@@ -1,32 +1,26 @@
 # Web Developer
 
 ### Education
-University of Central Oklahoma
-2023 - 2025
+#University of Central Oklahoma
+#2023 - 2025
 
 ### Work Experience
-Computer Science Teaching Assistant
-University of Central Oklahoma · ContractUniversity of Central Oklahoma · Contract
-May 2024 - Present · 7 mosMay 2024 to Present · 7 mos
-Oklahoma, United States · HybridOklahoma, United States · Hybrid
-Assist faculty members with classes and courses; assist with research and instrument development/assessment. Cover classes or proctor exams.
-Assist faculty members in a variety of ways: cover classes or proctor exams; lecture in areas where deemed competent; potentially tutor in classes which are in the student’s discipline; assist faculty with class preparation (i.e., library research, internet searches, and PowerPoint presentations), record keeping, and supervised grading of exams and assignments; assist with group study sessions as needed; and, other duties/responsibilities as deemed necessary or required.
+#Computer Science Teaching Assistant
+#University of Central Oklahoma · ContractUniversity of Central Oklahoma · Contract
+#May 2024 to Present · 7 mos
+#Oklahoma, United States · Hybrid
+#Assist faculty members in a variety of ways: cover classes or proctor exams; lecture in areas where deemed competent; potentially tutor in classes which are in the student’s discipline; #assist faculty with class preparation (i.e., library research, internet searches, and PowerPoint presentations), record keeping, and supervised grading of exams and assignments; assist #with group study sessions as needed; and, other duties/responsibilities as deemed necessary or required.
 
 ### Projects
-nventory Manager Web Application
-Inventory Manager Web Application
-Oct 2024 - Nov 2024Oct 2024 - Nov 2024
-
-Associated with University of Central Oklahoma
-Associated with University of Central Oklahoma
-https://github.com/hanswys/ywong8-project2-cmsc4373
-Inventory manager that allows creation of individual objects.
-Connected to Firestore data base.
-Changing quantity with update or cancel features.
-Exclusive tracking of inventory for specific users.
-https://github.com/hanswys/ywong8-project2-cmsc4373 Inventory manager that allows creation of individual objects. Connected to Firestore data base. Changing quantity with update or cancel features. Exclusive tracking of inventory for specific users.
-Skills: Node.js · HTML · Bootstrap (Framework) · Cascading Style Sheets (CSS)
-Skills: Node.js · HTML · Bootstrap (Framework) · Cascading Style Sheets (CSS)
+#Inventory Manager Web Application
+#Oct 2024 - Nov 2024
+#Associated with University of Central Oklahoma
+#https://github.com/hanswys/ywong8-project2-cmsc4373
+#Inventory manager that allows creation of individual objects.
+#Connected to Firestore data base.
+#Changing quantity with update or cancel features.
+#Exclusive tracking of inventory for specific users.
+#Skills: Node.js · HTML · Bootstrap (Framework) · Cascading Style Sheets (CSS)
 
 project2 inventory managerproject2 inventory manager
 Dice Roll Simulator Web Application
