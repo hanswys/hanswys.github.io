@@ -4,7 +4,7 @@
 University of Central Oklahoma
 2023 - 2025
 
-### Work Experience
+### Work Experiences
 Computer Science Teaching Assistant
 University of Central Oklahoma · ContractUniversity of Central Oklahoma · Contract
 May 2024 to Present · 7 mos
