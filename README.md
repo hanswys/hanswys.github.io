@@ -1,4 +1,4 @@
-# Web Developer
+# Web Developer Intern
 
 ### Education
 #University of Central Oklahoma
